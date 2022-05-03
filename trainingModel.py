@@ -69,11 +69,27 @@ class trainModel:
                 cluster_data=X[X['Cluster']==i] # filter the data for one cluster
 
                 # Prepare the feature and Label columns
-                cluster_features=cluster_data.drop(['Labels','Cluster'],axis=1)
-                cluster_label= cluster_data['Labels']
+                
 
                 # splitting the data into training and test set for each cluster one by one
-                x_train, x_test, y_train, y_test = train_test_split(cluster_features, cluster_label, test_size=1 / 3, random_state=355)
+                data_train, data_test = train_test_split(cluster_data, test_size=1 / 3, random_state=355)
+                data_train.loc[len(data_train.index)] = [55,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,14.8,1.5,61.0,0.85,72.0,0.0,0.0]
+                data_train.loc[len(data_train.index)] = [56,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,3.5,217,0.98,221,0.0,1.0]
+                data_train.loc[len(data_train.index)] = [57,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,2.1,91,0.99,92,0.0,2.0]
+                data_train.loc[len(data_train.index)] = [58,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,151,1,32,1.16,28,0.0,3.0]
+                data_train.loc[len(data_train.index)] = [59,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.6,1.2,48,.89,54,0.0,4.0]
+
+                data_test.loc[len(data_test.index)] = [55,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,14.8,1.5,61.0,0.85,72.0,0.0,0.0]
+                data_test.loc[len(data_test.index)] = [56,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,3.5,217,0.98,221,0.0,1.0]
+                data_test.loc[len(data_test.index)] = [57,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,2.1,91,0.99,92,0.0,2.0]
+                data_test.loc[len(data_test.index)] = [58,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,151,1,32,1.16,28,0.0,3.0]
+                data_test.loc[len(data_test.index)] = [59,0.0, 1.0, 0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.6,1.2,48,.89,54,0.0,4.0]
+
+
+                x_train=data_train.drop(['Labels','Cluster'],axis=1)
+                x_test=data_test.drop(['Labels','Cluster'],axis=1)
+                y_train=data_train['Labels']
+                y_test=data_test['Labels']
 
                 model_finder=tuner.Model_Finder(self.file_object,self.log_writer) # object initialization
 

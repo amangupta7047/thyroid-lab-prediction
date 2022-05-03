@@ -1,6 +1,6 @@
 ,columns,missing values count
-0,age,0
-1,sex,13
+0,age,1
+1,sex,150
 2,on_thyroxine,0
 3,query_on_thyroxine,0
 4,on_antithyroid_medication,0
@@ -15,8 +15,8 @@
 13,tumor,0
 14,hypopituitary,0
 15,psych,0
-16,TSH,25
-17,T3,56
-18,TT4,15
-19,T4U,23
-20,FTI,23
+16,TSH,369
+17,T3,769
+18,TT4,231
+19,T4U,387
+20,FTI,385

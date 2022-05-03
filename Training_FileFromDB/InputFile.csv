@@ -24,7 +24,7 @@
 81,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,0.3,t,102,t,0.96,t,106,f,?,SVI,negative
 54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,f,?,t,104,t,0.9,t,116,f,?,other,negative
 55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.8,t,134,t,1.02,t,131,f,?,SVI,negative
-63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,5.5,t,199,t,1.05,t,190,f,?,other,negative
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,5.5,t,199,t,1.05,t,190,f,?,other,hyperthyroid
 60,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,13,t,1.4,t,57,t,0.62,t,92,f,?,other,negative
 25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,3.1,t,129,f,?,f,?,f,?,other,negative
 73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.5,t,113,t,1.06,t,106,f,?,SVI,negative
@@ -47,7 +47,7 @@
 81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.2,t,133,t,0.78,t,171,f,?,other,negative
 83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.92,t,0.9,t,86,t,0.76,t,113,f,?,SVI,negative
 21,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,t,1.8,t,163,t,1.05,t,155,f,?,other,negative
-87,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,1.7,t,162,t,0.87,t,186,f,?,SVI,negative
+87,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,1.7,t,162,t,0.87,t,186,f,?,SVI,hyperthyroid
 78,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.64,t,1.7,t,113,t,0.99,t,115,f,?,SVI,negative
 64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,t,1,t,103,t,0.85,t,122,f,?,SVI,negative
 64,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,1.7,t,96,t,0.9,t,107,f,?,SVI,negative
@@ -74,7 +74,7 @@
 59,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,f,?,t,67,t,0.71,t,95,f,?,other,negative
 65,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.3,f,?,t,88,t,0.72,t,122,f,?,SVI,negative
-70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2.6,t,160,t,0.88,t,180,f,?,other,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2.6,t,160,t,0.88,t,180,f,?,other,hyperthyroid
 69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.31,f,?,t,118,t,0.83,t,142,f,?,other,negative
 66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,1.9,t,80,t,0.85,t,94,f,?,SVHC,negative
 61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.61,t,1.6,t,103,t,0.93,t,111,f,?,SVI,negative
@@ -113,7 +113,7 @@
 57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.6,t,2,t,87,t,0.61,t,143,f,?,other,negative
 70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2.1,t,91,t,0.99,t,92,f,?,SVHC,negative
 57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2.3,t,70,t,0.99,t,71,f,?,SVHC,negative
-65,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.15,t,3.5,t,217,t,0.98,t,221,f,?,other,negative
+65,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.15,t,3.5,t,217,t,0.98,t,221,f,?,other,hyperthyroid
 1,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.8,t,1.9,t,113,t,0.86,t,131,f,?,STMW,compensated_hypothyroid
 50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,151,t,1,t,32,t,1.16,t,28,f,?,other,primary_hypothyroid
 55,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.99,t,1.3,t,93,t,0.86,t,108,f,?,SVI,negative
@@ -150,7 +150,7 @@
 30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,3.1,t,119,t,1.08,t,109,f,?,other,negative
 38,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.88,t,1.6,t,108,t,0.85,t,127,f,?,SVI,negative
 17,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
-55,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.01,t,5.5,t,219,t,0.8,t,274,f,?,other,negative
+55,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.01,t,5.5,t,219,t,0.8,t,274,f,?,other,hyperthyroid
 72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2.2,t,124,t,1.08,t,115,f,?,SVI,negative
 72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.3,t,86,t,0.88,t,99,f,?,SVI,negative
 22,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2.2,t,93,t,1.08,t,87,f,?,other,negative
@@ -238,7 +238,7 @@
 44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.72,t,0.9,t,96,t,0.75,t,127,f,?,other,negative
 76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,0.05,t,38,t,0.52,t,73,f,?,SVI,negative
 32,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,2.8,t,1.3,t,86,t,0.89,t,96,f,?,other,negative
-52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,f,?,t,163,t,0.95,t,172,f,?,other,negative
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,f,?,t,163,t,0.95,t,172,f,?,other,hyperthyroid
 19,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,t,0.45,t,3.2,t,130,t,1.83,t,71,f,?,STMW,negative
 69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.6,t,99,t,0.92,t,108,f,?,other,negative
 38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.57,t,1.3,t,156,t,1.39,t,112,f,?,SVHC,negative
@@ -342,7 +342,7 @@
 26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.25,t,1.8,t,120,t,0.85,t,140,f,?,SVHC,negative
 54,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,?,t,1.9,t,95,t,0.88,t,109,f,?,other,negative
 60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,t,2.2,f,?,f,?,f,?,f,?,other,negative
-87,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.2,t,3.4,t,164,t,0.82,t,200,f,?,other,negative
+87,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.2,t,3.4,t,164,t,0.82,t,200,f,?,other,hyperthyroid
 67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.4,t,113,t,0.85,t,132,f,?,other,negative
 27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,2.3,t,119,t,0.99,t,120,f,?,other,negative
 75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,9.6,t,1.9,t,79,t,1,t,80,f,?,SVI,compensated_hypothyroid
@@ -433,7 +433,7 @@
 58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,1.4,t,111,t,0.97,t,115,f,?,SVI,negative
 26,F,t,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.08,t,1.7,t,174,t,1.23,t,142,f,?,other,negative
-49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,t,2.1,t,183,t,1.02,t,179,f,?,other,negative
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,t,2.1,t,183,t,1.02,t,179,f,?,other,hyperthyroid
 42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,2.1,t,121,t,1.12,t,108,f,?,SVI,negative
 72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,1.4,t,140,t,1.13,t,124,f,?,SVI,negative
 59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.1,t,121,t,1.11,t,109,f,?,SVI,negative
@@ -447,7 +447,7 @@
 56,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.87,t,1.9,t,116,f,?,f,?,f,?,other,negative
 71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.7,t,1.9,t,91,t,1.03,t,89,f,?,SVI,compensated_hypothyroid
 35,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2.3,t,82,t,0.88,t,93,f,?,STMW,negative
-59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,1.8,t,162,t,0.99,t,164,f,?,other,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,1.8,t,162,t,0.99,t,164,f,?,other,hyperthyroid
 61,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.3,t,2,t,93,t,0.99,t,93,f,?,other,negative
 55,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.9,t,2.3,t,98,t,1.03,t,95,f,?,SVI,negative
 59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,2.1,t,86,t,0.92,t,93,f,?,other,negative
@@ -455,7 +455,7 @@
 68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.4,t,2.7,t,94,t,1.14,t,82,f,?,SVI,negative
 50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7.6,t,1.7,t,128,t,1.08,t,118,f,?,other,compensated_hypothyroid
 52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.9,t,88,t,0.8,t,110,f,?,other,negative
-33,?,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.015,t,5,t,244,t,0.67,t,362,f,?,other,negative
+33,?,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.015,t,5,t,244,t,0.67,t,362,f,?,other,hyperthyroid
 58,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.065,t,3.4,t,129,t,0.95,t,136,f,?,other,negative
 55,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.29,f,?,t,81,t,0.7,t,116,f,?,SVI,negative
 51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.08,t,2.8,t,109,t,0.9,t,121,f,?,other,negative
@@ -541,7 +541,7 @@
 21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2.6,t,106,t,1.06,t,101,f,?,other,negative
 47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,f,?,t,114,t,0.89,t,129,f,?,other,negative
 51,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.065,t,2.2,t,164,t,1.09,t,151,f,?,other,negative
-15,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,6,t,250,t,0.8,t,312,f,?,other,negative
+15,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,6,t,250,t,0.8,t,312,f,?,other,hyperthyroid
 34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2.3,t,120,t,1.01,t,119,f,?,other,negative
 76,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,2.5,f,?,t,118,t,1,t,118,f,?,other,negative
 29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,1.6,t,135,t,0.86,t,157,f,?,other,negative
@@ -603,7 +603,7 @@
 62,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.2,t,0.8,t,124,t,0.9,t,137,f,?,SVI,negative
 54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2.4,t,107,t,1.06,t,101,f,?,other,negative
 63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,33,t,1.5,t,128,f,?,f,?,f,?,other,compensated_hypothyroid
-27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,5.3,t,272,t,0.97,t,281,f,?,other,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,5.3,t,272,t,0.97,t,281,f,?,other,hyperthyroid
 72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,1.1,t,108,t,0.66,t,165,f,?,SVI,negative
 40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,f,?,t,97,t,1.01,t,97,f,?,other,compensated_hypothyroid
 61,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.15,t,2.1,t,97,t,1.03,t,95,f,?,other,negative
@@ -617,12 +617,12 @@
 53,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.85,t,2,t,103,t,0.93,t,111,f,?,other,negative
 29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2.8,t,144,t,1.17,t,123,f,?,other,negative
 71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,2.9,t,111,t,0.92,t,121,f,?,SVI,negative
-58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,2.6,t,166,t,0.8,t,207,f,?,SVI,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,2.6,t,166,t,0.8,t,207,f,?,SVI,hyperthyroid
 55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,2.2,t,84,t,0.85,t,99,f,?,other,negative
 22,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.9,t,107,t,1.01,t,106,f,?,other,negative
 84,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.04,f,?,t,213,t,0.99,t,216,f,?,other,negative
 64,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
-57,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.065,t,4.2,t,235,t,1.1,t,214,f,?,other,negative
+57,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.065,t,4.2,t,235,t,1.1,t,214,f,?,other,hyperthyroid
 85,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,2.3,t,128,t,1.06,t,121,f,?,SVI,negative
 66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,f,?,t,134,t,0.98,t,137,f,?,SVI,negative
 54,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,t,1.9,t,100,t,1.11,t,90,f,?,other,negative
@@ -700,7 +700,7 @@
 69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2.3,t,135,t,1.07,t,127,f,?,other,negative
 76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.61,t,1.5,t,112,t,0.98,t,114,f,?,SVI,negative
 25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,SVHC,negative
-45,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0.065,t,4.6,t,210,t,1.11,t,190,f,?,other,negative
+45,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0.065,t,4.6,t,210,t,1.11,t,190,f,?,other,hyperthyroid
 44,M,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.89,f,?,t,40,t,0.96,t,42,f,?,SVI,negative
 28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2.5,t,2.9,t,86,t,1.19,t,72,f,?,SVHC,negative
 25,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.09,t,2.2,t,181,t,1.23,t,147,f,?,other,negative
@@ -742,7 +742,7 @@
 28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,4.5,t,204,t,2.03,t,100,f,?,STMW,negative
 56,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,8.2,t,2,t,66,t,0.94,t,70,f,?,other,compensated_hypothyroid
 59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2,t,106,t,0.87,t,121,f,?,other,negative
-41,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.15,t,7.3,t,430,t,1.09,t,395,f,?,STMW,negative
+41,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.15,t,7.3,t,430,t,1.09,t,395,f,?,STMW,hyperthyroid
 87,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,1.5,t,100,t,1.2,t,83,f,?,SVI,negative
 55,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.3,f,?,t,76,t,1.01,t,76,f,?,SVI,negative
 61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.63,t,1.8,t,120,t,0.91,t,132,f,?,other,negative
@@ -771,7 +771,7 @@
 72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,t,1.3,t,91,t,1.02,t,89,f,?,SVI,negative
 37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2.7,t,155,t,1.43,t,109,f,?,SVHC,negative
 88,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,f,?,t,78,t,0.78,t,100,f,?,other,negative
-33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.01,t,1.5,t,160,t,0.87,t,185,f,?,SVI,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.01,t,1.5,t,160,t,0.87,t,185,f,?,SVI,hyperthyroid
 63,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.74,f,?,t,74,t,0.77,t,97,f,?,other,negative
 59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.1,t,2,t,95,t,0.85,t,111,f,?,SVHC,negative
 38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2.5,t,88,t,0.95,t,93,f,?,other,negative
@@ -905,7 +905,7 @@
 82,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.4,t,113,t,0.85,t,132,f,?,SVI,negative
 74,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,1.4,f,?,t,109,t,0.96,t,114,f,?,other,negative
 77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,1.7,t,101,t,0.85,t,119,f,?,SVI,negative
-58,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.005,t,3.9,t,181,t,0.96,t,188,f,?,SVI,negative
+58,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.005,t,3.9,t,181,t,0.96,t,188,f,?,SVI,hyperthyroid
 54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.75,t,2.3,t,109,t,1.14,t,95,f,?,SVHD,negative
 62,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,6.5,t,1.8,t,97,t,1.29,t,76,f,?,SVI,negative
 19,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2,t,147,t,0.9,t,163,f,?,other,negative
@@ -965,7 +965,7 @@
 46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,3.2,t,160,t,1.53,t,105,f,?,other,negative
 46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,f,?,t,109,t,1.11,t,98,f,?,other,negative
 65,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.14,t,5.3,t,129,f,?,f,?,f,?,other,negative
-23,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.01,t,2.9,t,205,t,0.87,t,235,f,?,other,negative
+23,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.01,t,2.9,t,205,t,0.87,t,235,f,?,other,hyperthyroid
 57,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,f,?,t,101,t,1.08,t,94,f,?,other,compensated_hypothyroid
 37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,2.6,t,98,t,0.95,t,103,f,?,SVI,negative
@@ -981,7 +981,7 @@
 74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.65,t,0.9,t,92,t,0.71,t,129,f,?,SVI,negative
 74,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,6.9,f,?,t,97,t,0.87,t,112,f,?,other,compensated_hypothyroid
 53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.6,t,2.6,t,136,t,1.19,t,114,f,?,SVHC,negative
-71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.2,t,165,t,0.89,t,186,f,?,SVI,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.2,t,165,t,0.89,t,186,f,?,SVI,hyperthyroid
 59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.9,t,1.4,t,96,t,0.88,t,109,f,?,SVI,negative
 19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.6,t,2.2,t,96,t,0.94,t,102,f,?,SVHC,negative
 53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,f,?,t,88,t,1.05,t,84,f,?,other,negative
@@ -1002,7 +1002,7 @@
 38,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2.3,t,130,t,1.24,t,105,f,?,other,negative
 41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.5,t,100,t,0.86,t,116,f,?,other,negative
-22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.8,t,157,t,0.9,t,175,f,?,other,negative
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.8,t,157,t,0.9,t,175,f,?,other,hyperthyroid
 69,F,t,f,f,f,f,f,t,f,f,f,f,f,f,f,t,1.3,t,1.7,t,116,t,0.95,t,122,f,?,other,negative
 70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,1.8,t,94,t,0.82,t,115,f,?,SVI,negative
 52,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
@@ -1111,7 +1111,7 @@
 42,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,7.2,t,1.3,t,93,t,0.9,t,104,f,?,other,negative
 70,F,f,f,f,f,f,t,f,f,t,f,f,f,f,f,t,0.15,t,1.5,t,85,t,0.91,t,94,f,?,other,negative
 63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,0.8,t,74,t,0.85,t,87,f,?,other,negative
-76,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.005,f,?,t,143,t,0.76,t,189,f,?,other,negative
+76,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.005,f,?,t,143,t,0.76,t,189,f,?,other,hyperthyroid
 76,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2,t,1.4,t,107,t,0.77,t,139,f,?,SVI,negative
 69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,26,t,2,t,89,t,1.5,t,59,f,?,other,primary_hypothyroid
 16,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.81,t,2.1,t,70,t,0.83,t,84,f,?,other,negative
@@ -1126,7 +1126,7 @@
 82,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2.4,t,139,t,1.15,t,121,f,?,SVI,negative
 28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,54,t,2.1,t,50,t,1.1,t,46,f,?,SVI,primary_hypothyroid
 26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,1.9,t,170,t,1.23,t,138,f,?,STMW,negative
-19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.9,t,165,t,0.95,t,174,f,?,other,negative
+19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.9,t,165,t,0.95,t,174,f,?,other,hyperthyroid
 47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1.4,t,159,t,0.95,t,166,f,?,SVI,negative
 94,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.9,f,?,t,157,t,1.02,t,154,f,?,SVI,negative
 60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,f,?,t,127,t,1.01,t,126,f,?,other,negative
@@ -1135,7 +1135,7 @@
 75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,0.05,t,106,t,1.14,t,93,f,?,SVI,negative
 39,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,1.5,t,2.8,t,99,t,0.95,t,104,f,?,other,negative
 67,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.7,f,?,t,82,t,0.89,t,92,f,?,other,negative
-72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,161,t,0.9,t,180,f,?,other,negative
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,161,t,0.9,t,180,f,?,other,hyperthyroid
 19,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,1.8,t,1.8,t,92,f,?,f,?,f,?,other,negative
 73,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.39,f,?,t,104,t,0.97,t,107,f,?,other,negative
 49,M,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0.015,f,?,t,126,t,0.83,t,152,f,?,other,negative
@@ -1187,7 +1187,7 @@
 55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.01,t,2.2,t,172,t,1.1,t,157,f,?,other,negative
 33,F,f,f,f,f,t,f,f,f,t,f,f,f,f,f,t,3,t,2.5,t,121,t,1.38,t,88,f,?,other,negative
 70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2,t,119,t,0.86,t,138,f,?,SVHC,negative
-64,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,f,?,t,6.1,t,214,t,0.94,t,228,f,?,other,negative
+64,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,f,?,t,6.1,t,214,t,0.94,t,228,f,?,other,hyperthyroid
 71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.09,t,2.5,t,167,t,1.19,t,140,f,?,other,negative
 29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,2.1,t,110,t,0.95,t,116,f,?,other,negative
 78,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,4.1,t,1.9,t,116,t,1.05,t,110,f,?,other,negative
@@ -1216,7 +1216,7 @@
 59,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,1.9,t,144,t,0.93,t,156,f,?,other,negative
 4,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.07,t,3.2,t,246,t,1.06,t,232,f,?,STMW,negative
 35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.2,t,1.9,t,95,t,1.1,t,87,f,?,SVHC,negative
-56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,f,?,t,230,t,1.06,t,217,f,?,other,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,f,?,t,230,t,1.06,t,217,f,?,other,hyperthyroid
 35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,110,t,0.96,t,114,f,?,other,negative
 38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.23,t,3.4,t,183,t,0.98,t,186,f,?,other,negative
 64,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.24,f,?,t,83,t,0.9,t,93,f,?,other,negative
@@ -1246,7 +1246,7 @@
 55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,60,t,0.7,t,14,t,1.11,t,13,f,?,other,primary_hypothyroid
 20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,f,?,t,105,t,1.04,t,101,f,?,other,negative
 62,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,f,?,t,126,t,1.24,t,101,f,?,other,negative
-72,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.1,t,2.5,t,180,t,0.83,t,217,f,?,SVI,negative
+72,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.1,t,2.5,t,180,t,0.83,t,217,f,?,SVI,hyperthyroid
 70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,1.8,t,122,t,0.85,t,144,f,?,SVI,negative
 11,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
@@ -1283,7 +1283,7 @@
 73,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,2.1,t,2.8,t,109,t,1.32,t,83,f,?,other,negative
 78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,2.2,t,129,t,0.97,t,133,f,?,SVI,negative
 81,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.2,t,147,t,1.06,t,138,f,?,SVI,negative
-77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.7,t,155,t,0.98,t,159,f,?,other,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.7,t,155,t,0.98,t,159,f,?,other,hyperthyroid
 37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.1,t,2.5,t,118,f,?,f,?,f,?,SVI,negative
 39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.7,t,94,t,0.85,t,110,f,?,other,negative
 52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2.3,t,117,t,1.11,t,105,f,?,SVI,negative
@@ -1340,7 +1340,7 @@
 56,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,f,?,t,170,t,0.96,t,177,f,?,other,negative
 57,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,?,t,2.2,t,104,t,1.07,t,97,f,?,other,negative
 66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.6,t,2.4,t,125,t,1.09,t,115,f,?,SVI,negative
-47,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.15,t,4.3,t,189,t,1.07,t,176,f,?,other,negative
+47,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.15,t,4.3,t,189,t,1.07,t,176,f,?,other,hyperthyroid
 61,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.9,t,103,t,0.88,t,118,f,?,other,negative
 53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,2.4,t,104,t,0.81,t,128,f,?,SVHC,negative
@@ -1394,7 +1394,7 @@
 38,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7.1,f,?,t,130,t,0.98,t,132,f,?,other,negative
 78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,0.9,t,65,t,0.88,t,74,f,?,other,negative
 39,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.4,t,1.1,t,63,t,0.8,t,78,f,?,SVI,negative
-18,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,3.1,t,160,t,0.9,t,177,f,?,STMW,negative
+18,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,3.1,t,160,t,0.9,t,177,f,?,STMW,hyperthyroid
 22,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,151,t,1.05,t,144,f,?,other,negative
 2,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.025,f,?,t,145,t,0.93,t,155,f,?,other,negative
 78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.3,t,112,t,1.08,t,104,f,?,other,negative
@@ -1409,12 +1409,12 @@
 35,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.1,t,2.8,t,138,t,1.13,t,122,f,?,SVHC,negative
 39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.6,t,1.2,t,95,t,0.93,t,102,f,?,SVHC,negative
 57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,9.1,f,?,t,101,t,1.12,t,90,f,?,other,compensated_hypothyroid
-55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,1.8,t,180,t,0.82,t,219,f,?,other,negative
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,1.8,t,180,t,0.82,t,219,f,?,other,hyperthyroid
 64,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,8.9,t,1.2,t,67,t,0.75,t,89,f,?,SVI,compensated_hypothyroid
 55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,1.6,t,86,t,0.8,t,107,f,?,SVI,negative
 19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,18.4,t,2,t,105,f,?,f,?,f,?,other,compensated_hypothyroid
 65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.4,t,78,t,0.82,t,96,f,?,SVI,negative
-41,F,f,f,f,f,t,f,f,f,t,f,f,f,f,f,t,0.2,f,?,t,430,t,1.09,t,395,f,?,STMW,negative
+41,F,f,f,f,f,t,f,f,f,t,f,f,f,f,f,t,0.2,f,?,t,430,t,1.09,t,395,f,?,STMW,hyperthyroid
 75,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2.2,t,70,t,0.85,t,82,f,?,other,negative
 51,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2.8,t,132,t,0.95,t,139,f,?,other,negative
 63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,f,?,t,84,t,0.9,t,93,f,?,other,negative
@@ -1471,7 +1471,7 @@
 78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.8,t,98,t,1.14,t,85,f,?,other,negative
 56,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.38,f,?,t,105,t,0.9,t,116,f,?,other,negative
 21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,1.5,t,78,t,0.89,t,88,f,?,other,negative
-41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,2.1,t,187,t,0.89,t,210,f,?,other,negative
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,2.1,t,187,t,0.89,t,210,f,?,other,hyperthyroid
 59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,t,1.5,t,88,t,0.98,t,90,f,?,SVI,compensated_hypothyroid
 54,?,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.93,t,1.8,t,115,t,0.94,t,123,f,?,other,negative
 39,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,0.2,t,2.2,t,106,t,0.75,t,141,f,?,other,negative
@@ -1541,7 +1541,7 @@
 53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2.6,t,151,t,1.16,t,130,f,?,SVI,negative
 34,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,1.9,t,2.1,t,118,t,1.2,t,98,f,?,other,negative
 16,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,76,t,0.93,t,82,f,?,other,negative
-46,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.02,t,4.5,t,156,t,0.76,t,205,f,?,other,negative
+46,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.02,t,4.5,t,156,t,0.76,t,205,f,?,other,hyperthyroid
 25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,f,?,t,107,t,1.15,t,92,f,?,other,negative
 69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,2.3,t,108,t,1.03,t,105,f,?,SVI,negative
 69,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.2,t,2.5,t,124,t,1.15,t,108,f,?,other,negative
@@ -1579,7 +1579,7 @@
 77,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,12,f,?,t,77,t,1.06,t,73,f,?,other,compensated_hypothyroid
 68,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.8,t,89,t,0.83,t,105,f,?,other,negative
 37,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,f,?,f,?,f,?,f,?,f,?,other,negative
-72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,t,4.9,t,192,t,1.09,t,176,f,?,other,negative
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,t,4.9,t,192,t,1.09,t,176,f,?,other,hyperthyroid
 22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,1.9,t,83,t,0.74,t,112,f,?,SVI,negative
 73,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,2,t,1.6,t,116,t,0.93,t,125,f,?,SVI,negative
 57,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2.3,t,213,t,1.09,t,195,f,?,other,negative
@@ -1670,7 +1670,7 @@
 74,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.5,t,2.1,t,70,t,0.74,t,94,f,?,SVI,negative
 74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.5,t,1.4,t,89,t,0.99,t,89,f,?,other,negative
 61,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,11,t,1.2,t,83,t,1.01,t,82,f,?,other,compensated_hypothyroid
-77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,10.6,t,226,t,0.65,t,349,f,?,other,negative
+77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,10.6,t,226,t,0.65,t,349,f,?,other,hyperthyroid
 54,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,2.3,t,2,t,78,t,1.04,t,75,f,?,other,negative
 37,F,f,f,f,f,f,f,f,f,f,t,f,f,f,t,t,4.4,t,2.6,t,108,t,1.12,t,96,f,?,other,negative
 27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.9,t,118,t,1.52,t,78,f,?,other,negative
@@ -1741,7 +1741,7 @@
 79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.84,t,0.8,t,94,t,0.86,t,109,f,?,other,negative
 63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.4,t,2.3,t,118,t,1.17,t,101,f,?,other,negative
 43,F,f,f,f,f,f,f,t,f,t,f,f,f,f,f,t,3.5,t,1.7,t,99,t,1.14,t,87,f,?,other,negative
-35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,5.1,t,167,t,1,t,168,f,?,other,negative
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,5.1,t,167,t,1,t,168,f,?,other,hyperthyroid
 59,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,f,?,t,141,t,1.17,t,120,f,?,other,negative
 51,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,f,?,t,151,t,1.06,t,142,f,?,other,negative
 46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,1.9,t,69,f,?,f,?,f,?,other,negative
@@ -1775,7 +1775,7 @@
 71,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,38,t,0.4,t,37,t,0.74,t,50,f,?,SVI,primary_hypothyroid
 72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2.6,t,111,t,1.06,t,105,f,?,other,negative
 52,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,44,t,2.5,t,66,t,1.22,t,54,f,?,other,primary_hypothyroid
-23,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.015,t,4,t,204,t,0.84,t,242,f,?,other,negative
+23,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.015,t,4,t,204,t,0.84,t,242,f,?,other,hyperthyroid
 73,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.5,t,1.6,t,143,t,1.06,t,134,f,?,other,negative
 62,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.5,t,96,t,0.88,t,109,f,?,SVHC,negative
 51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1.8,t,68,t,0.79,t,86,f,?,SVI,negative
@@ -1787,7 +1787,7 @@
 43,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,f,?,t,134,t,1.03,t,131,f,?,other,negative
 60,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.35,t,1.6,t,98,t,0.75,t,131,f,?,other,negative
 72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.54,t,1.7,t,90,t,0.83,t,109,f,?,SVI,negative
-73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,2,t,192,t,1.02,t,188,f,?,SVI,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,2,t,192,t,1.02,t,188,f,?,SVI,hyperthyroid
 74,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.4,f,?,t,123,t,1.57,t,79,f,?,other,negative
 47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.4,t,90,t,0.97,t,92,f,?,SVI,negative
 24,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.5,f,?,t,166,t,1.59,t,104,f,?,other,negative
@@ -1852,7 +1852,7 @@
 70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,1.8,t,82,t,0.77,t,107,f,?,other,negative
 26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.17,t,0.9,t,122,f,?,f,?,f,?,SVI,negative
 62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.81,t,2.3,t,109,t,1.18,t,93,f,?,SVI,negative
-16,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.05,t,6.2,t,255,t,1.04,t,244,f,?,other,negative
+16,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.05,t,6.2,t,255,t,1.04,t,244,f,?,other,hyperthyroid
 23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,1.3,t,72,t,0.9,t,80,f,?,other,negative
 75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2.6,t,90,t,0.99,t,91,f,?,other,negative
 29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
@@ -1884,7 +1884,7 @@
 44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,f,?,t,88,t,1.05,t,83,f,?,other,negative
 60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,11,t,2.6,t,109,t,1.06,t,103,f,?,SVHD,compensated_hypothyroid
 66,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.065,t,2,t,153,t,0.99,t,154,f,?,other,negative
-34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,178,t,1,t,178,f,?,other,negative
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,178,t,1,t,178,f,?,other,hyperthyroid
 77,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.7,t,113,t,0.94,t,120,f,?,other,negative
 43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,3.9,t,1.5,t,58,t,0.59,t,99,f,?,SVHC,negative
 77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.2,t,1.2,t,89,t,0.74,t,121,f,?,SVI,compensated_hypothyroid
@@ -1936,7 +1936,7 @@
 30,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,f,?,t,1.8,t,89,t,1.05,t,85,f,?,other,negative
 28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.2,t,2.8,t,134,t,1.26,t,107,f,?,other,negative
 61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,1.7,t,96,t,0.83,t,116,f,?,other,negative
-53,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.02,t,4.3,t,250,t,1.01,t,247,f,?,other,negative
+53,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.02,t,4.3,t,250,t,1.01,t,247,f,?,other,hyperthyroid
 38,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2,t,78,t,0.85,t,92,f,?,SVI,negative
 25,F,f,f,f,t,f,f,f,f,f,f,f,t,f,f,t,0.1,t,1.7,t,92,t,0.89,t,103,f,?,other,negative
 64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,1.7,t,85,f,?,f,?,f,?,other,negative
@@ -1946,13 +1946,13 @@
 26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,1.7,t,129,t,1.1,t,116,f,?,SVI,negative
 72,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2.6,t,82,t,0.89,t,93,f,?,other,negative
 37,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,27,t,0.9,t,87,t,0.84,t,105,f,?,other,compensated_hypothyroid
-59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.04,t,2.5,t,161,t,0.83,t,195,f,?,other,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.04,t,2.5,t,161,t,0.83,t,195,f,?,other,hyperthyroid
 67,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,f,?,t,124,t,1.04,t,119,f,?,other,negative
 47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2,t,109,t,1,t,109,f,?,other,negative
 33,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.08,f,?,t,126,t,1,t,126,f,?,other,negative
 60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,2.8,t,82,t,0.89,t,93,f,?,SVHC,negative
 36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.6,t,3.7,t,131,t,1.65,t,79,f,?,SVI,compensated_hypothyroid
-70,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,t,0.005,t,3.5,t,194,t,0.9,t,215,f,?,other,negative
+70,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,t,0.005,t,3.5,t,194,t,0.9,t,215,f,?,other,hyperthyroid
 38,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0.035,t,1.8,t,130,t,0.87,t,150,f,?,other,negative
 33,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,?,t,2.3,t,110,t,1.01,t,109,f,?,other,negative
 36,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,3.3,t,132,t,1.21,t,110,f,?,SVHC,negative
@@ -1974,7 +1974,7 @@
 62,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,2.2,t,2.8,t,122,t,1.13,t,109,f,?,SVI,negative
 74,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,3.4,t,1,t,102,t,0.9,t,114,f,?,SVI,negative
 73,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.7,t,1.8,t,198,t,1,t,198,f,?,other,negative
-31,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,f,?,t,3,t,158,t,1.01,t,156,f,?,other,negative
+31,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,f,?,t,3,t,158,t,1.01,t,156,f,?,other,hyperthyroid
 30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,2,t,71,t,0.89,t,80,f,?,SVI,negative
 76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,t,2,t,118,t,1.16,t,102,f,?,other,negative
 51,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,2,t,96,t,0.95,t,101,f,?,SVI,negative
@@ -2052,7 +2052,7 @@
 89,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,0.6,t,101,t,0.73,t,138,f,?,SVI,negative
 54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,2,t,101,t,1.09,t,92,f,?,SVI,negative
 43,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,2.2,t,93,t,1.17,t,80,f,?,other,negative
-55,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.035,t,4.4,t,195,t,0.82,t,237,f,?,other,negative
+55,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.035,t,4.4,t,195,t,0.82,t,237,f,?,other,hyperthyroid
 76,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.9,t,2.2,t,105,t,1.09,t,96,f,?,other,negative
 63,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,6.5,t,0.7,t,86,t,0.72,t,120,f,?,SVI,compensated_hypothyroid
 79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1.2,t,88,t,0.85,t,104,f,?,SVI,negative
@@ -2078,7 +2078,7 @@
 73,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,0.8,t,61,t,0.49,t,124,f,?,other,negative
 68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2,t,131,t,1.07,t,122,f,?,SVI,negative
 42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,13,t,1.9,t,61,t,0.82,t,74,f,?,SVI,compensated_hypothyroid
-46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,3,t,161,t,0.93,t,174,f,?,other,negative
+46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,3,t,161,t,0.93,t,174,f,?,other,hyperthyroid
 60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,t,1.7,t,67,t,0.87,t,77,f,?,other,compensated_hypothyroid
 25,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.7,f,?,t,183,t,1.41,t,130,f,?,other,negative
 25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,26.4,t,2.3,t,73,t,1.09,t,67,f,?,other,compensated_hypothyroid
@@ -2215,7 +2215,7 @@
 62,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,2,t,117,t,0.8,t,145,f,?,other,negative
 70,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.5,f,?,t,127,t,1.05,t,121,f,?,other,negative
 48,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,178,t,1,t,63,t,1.08,t,59,f,?,other,primary_hypothyroid
-51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,3.3,t,200,t,1,t,200,f,?,SVI,negative
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,3.3,t,200,t,1,t,200,f,?,SVI,hyperthyroid
 65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,2.2,t,81,t,0.9,t,90,f,?,SVI,negative
 52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,1.9,t,92,t,1.05,t,88,f,?,other,negative
 72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,9.7,t,1.1,t,77,t,0.79,t,97,f,?,SVI,compensated_hypothyroid
@@ -2326,7 +2326,7 @@
 64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,1,t,145,f,?,f,?,f,?,SVI,negative
 49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,2.6,t,118,t,1.19,t,99,f,?,other,negative
-56,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.015,t,4.1,t,191,t,1,t,191,f,?,other,negative
+56,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.015,t,4.1,t,191,t,1,t,191,f,?,other,hyperthyroid
 74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.9,t,99,t,1.12,t,88,f,?,other,negative
 23,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.04,t,3.8,t,131,t,1.05,t,125,f,?,other,negative
 37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
@@ -2421,7 +2421,7 @@
 28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 18,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2.4,t,74,t,1.16,t,63,f,?,STMW,negative
 25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.81,t,2.8,t,106,t,1.32,t,81,f,?,SVHC,negative
-72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,2.9,t,198,t,0.91,t,217,f,?,SVHC,negative
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,2.9,t,198,t,0.91,t,217,f,?,SVHC,hyperthyroid
 75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,120,t,0.97,t,124,f,?,other,negative
 41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2,t,2.5,t,109,t,1.03,t,105,f,?,SVHC,negative
 39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2.9,t,97,t,1.03,t,94,f,?,SVI,negative
@@ -2436,7 +2436,7 @@
 18,?,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.1,t,120,t,1.12,t,107,f,?,other,negative
 62,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0.43,t,2.2,t,122,t,1.17,t,104,f,?,SVI,negative
 66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.2,t,1.6,t,126,t,1.02,t,123,f,?,other,negative
-55,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,f,?,t,161,t,0.9,t,180,f,?,other,negative
+55,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,f,?,t,161,t,0.9,t,180,f,?,other,hyperthyroid
 51,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.9,t,101,t,1.08,t,94,f,?,other,negative
 82,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,6.6,t,1.6,t,92,t,1,t,91,f,?,SVHC,compensated_hypothyroid
 85,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.1,t,132,t,0.85,t,154,f,?,SVI,negative
@@ -2504,7 +2504,7 @@
 35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.97,f,?,t,94,t,0.97,t,97,f,?,other,negative
 78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2.4,t,118,t,0.88,t,135,f,?,SVI,negative
 65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,1.9,t,101,t,0.99,t,102,f,?,SVI,negative
-57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,3.6,t,144,t,0.84,t,171,f,?,other,negative
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,3.6,t,144,t,0.84,t,171,f,?,other,hyperthyroid
 59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,2.5,t,96,t,0.91,t,105,f,?,other,negative
 2,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,472,t,1.7,t,34,t,1.17,t,29,f,?,STMW,primary_hypothyroid
 48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,t,1.6,f,?,f,?,f,?,f,?,other,negative
@@ -2562,8 +2562,8 @@
 78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,t,1.1,t,112,t,0.82,t,137,f,?,SVHD,negative
 48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.5,t,91,t,1.17,t,78,f,?,SVI,negative
 66,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,1.6,t,120,t,0.91,t,132,f,?,other,negative
-61,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.2,t,3.8,t,252,t,1.13,t,222,f,?,other,negative
-79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,4.1,t,160,t,0.78,t,204,f,?,other,negative
+61,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.2,t,3.8,t,252,t,1.13,t,222,f,?,other,hyperthyroid
+79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,4.1,t,160,t,0.78,t,204,f,?,other,hyperthyroid
 61,F,f,f,f,t,f,f,f,t,f,f,f,f,f,f,t,2,f,?,t,85,t,1,t,85,f,?,other,negative
 55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.2,t,1.7,t,126,t,1.24,t,101,f,?,other,negative
 49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.9,t,0.7,t,82,t,0.79,t,104,f,?,SVI,negative
@@ -2599,7 +2599,7 @@
 71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.48,t,1.7,t,97,t,1.04,t,93,f,?,SVI,negative
 25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.8,t,2.2,t,109,t,0.97,t,113,f,?,other,compensated_hypothyroid
 30,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2.6,t,1.7,t,82,t,1.03,t,79,f,?,other,negative
-68,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,175,t,0.86,t,204,f,?,other,negative
+68,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,175,t,0.86,t,204,f,?,other,hyperthyroid
 50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,f,?,t,105,t,0.92,t,114,f,?,other,negative
 15,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2.3,t,3.4,t,115,t,0.96,t,120,f,?,other,negative
 68,F,t,f,f,f,f,f,t,f,t,f,f,f,f,f,t,2.6,t,2,t,152,t,1.41,t,108,f,?,other,negative
@@ -2612,7 +2612,7 @@
 46,M,t,f,f,f,f,t,f,t,f,f,f,f,f,f,t,1.4,t,2.2,t,122,t,1.03,t,119,f,?,other,negative
 42,F,f,f,t,f,t,f,f,f,t,f,f,f,f,f,t,0.005,t,3.9,t,205,t,1.7,t,121,f,?,STMW,negative
 15,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,92,t,1.06,t,87,f,?,other,negative
-60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,7.1,t,184,t,1.03,t,177,f,?,other,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,7.1,t,184,t,1.03,t,177,f,?,other,hyperthyroid
 28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,2.5,t,84,t,1.06,t,79,f,?,other,negative
 49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,f,?,t,131,t,0.83,t,158,f,?,other,negative
 57,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.6,t,141,t,0.89,t,158,f,?,other,negative
@@ -2670,7 +2670,7 @@
 59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,11,t,1.5,t,89,t,1.12,t,79,f,?,SVI,compensated_hypothyroid
 64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,2.2,t,174,f,?,f,?,f,?,other,negative
 77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.6,t,84,t,0.87,t,97,f,?,SVI,negative
-55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,3.6,t,301,t,1.75,t,172,f,?,other,negative
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,3.6,t,301,t,1.75,t,172,f,?,other,hyperthyroid
 39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
 94,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.3,t,119,t,1.04,t,114,f,?,SVI,negative
 41,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,5.1,t,1.8,t,91,t,1.12,t,82,f,?,other,negative
@@ -2705,7 +2705,7 @@
 70,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,f,?,t,162,t,1.12,t,146,f,?,other,negative
 25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.8,t,118,t,0.99,t,119,f,?,SVHC,negative
 12,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,3,t,176,t,0.89,t,197,f,?,other,negative
-37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,t,4.3,t,187,t,0.96,t,194,f,?,other,negative
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,t,4.3,t,187,t,0.96,t,194,f,?,other,hyperthyroid
 54,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.46,t,3,t,116,t,1.05,t,110,f,?,SVHD,negative
 49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,1.5,t,101,t,1.11,t,92,f,?,SVHC,negative
 65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,0.6,t,61,t,0.59,t,105,f,?,SVI,negative
@@ -2765,11 +2765,11 @@
 55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.91,t,1.8,t,93,t,1.04,t,89,f,?,SVI,negative
 73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2.3,t,74,f,?,f,?,f,?,other,negative
 24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.1,t,1.6,t,182,f,?,f,?,f,?,SVHC,negative
-20,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,4.8,t,22,f,?,f,?,f,?,SVI,negative
+20,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,4.8,t,22,f,?,f,?,f,?,SVI,hyperthyroid
 24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,10,t,2.5,t,110,t,1.17,t,94,f,?,other,compensated_hypothyroid
 39,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.015,t,1.5,t,84,t,0.99,t,85,f,?,other,negative
-41,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.2,t,3.8,t,253,t,1.24,t,204,f,?,STMW,negative
-31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,196,t,0.94,t,209,f,?,other,negative
+41,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.2,t,3.8,t,253,t,1.24,t,204,f,?,STMW,hyperthyroid
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,t,196,t,0.94,t,209,f,?,other,hyperthyroid
 71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2,t,96,t,1.05,t,92,f,?,SVI,negative
 25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,468,t,0.7,t,21,t,1.1,t,19,f,?,other,primary_hypothyroid
 84,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,3.6,t,0.6,t,82,t,0.74,t,110,f,?,SVI,negative
@@ -2785,7 +2785,7 @@
 82,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,f,?,t,125,t,0.84,t,149,f,?,other,negative
 27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.5,t,104,f,?,f,?,f,?,other,negative
 57,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,1.6,t,73,t,0.97,t,75,f,?,SVI,negative
-73,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,1.8,t,173,t,1,t,173,f,?,other,negative
+73,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,1.8,t,173,t,1,t,173,f,?,other,hyperthyroid
 58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,t,1.6,f,?,f,?,f,?,f,?,other,negative
 70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.5,t,70,t,0.77,t,91,f,?,SVI,negative
 54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,?,f,?,f,?,f,?,f,?,f,?,other,negative
